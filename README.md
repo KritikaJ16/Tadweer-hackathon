@@ -211,22 +211,34 @@ Because the platform separates user feedback from data visualisation, the same f
 
 # Project Structure
 
-```text
-src/
+
+text
+.
+├── Impact/
+│   ├── Demo/
+│   └── IMPACT.md
 │
-├── components/
-├── pages/
-├── hooks/
-├── assets/
-├── styles/
-└── App.jsx
-
-public/
-
-package.json
-vite.config.js
-README.md
-```
+├── docs/
+│   ├── roadmap-validation.md
+│   ├── simulation-results.md
+│   └── user-testing (1).md
+│
+├── end/
+│   ├── download/
+│   ├── env.example
+│   ├── ggtx/
+│   ├── index.html
+│   ├── package.json
+│   └── vite.config.js
+│
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+│
+├── About
+└── README.md
 
 ---
 
