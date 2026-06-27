@@ -212,7 +212,7 @@ Because the platform separates user feedback from data visualisation, the same f
 # Project Structure
 
 
-text
+```text
 .
 ├── Impact/
 │   ├── Demo/
@@ -239,7 +239,7 @@ text
 │
 ├── About
 └── README.md
-
+```
 ---
 
 # Running the Project
