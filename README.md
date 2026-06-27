@@ -114,7 +114,6 @@ Aids entrepreneurs with moving their ideas forward.
 - Resolved problem where stored answers weren’t getting updated properly
 - Data storage has improved reliability
 
----
 
 ## Feasibility & Deployment
 
