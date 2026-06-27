@@ -80,6 +80,8 @@ Aids entrepreneurs with moving their ideas forward.
 - Scalable Text 
 - Text-to-Speech functionality
 
+---
+
 ## Impact
 
 ✅ Removes uncertainty from rural entrepreneurship  
@@ -114,6 +116,7 @@ Aids entrepreneurs with moving their ideas forward.
 - Resolved problem where stored answers weren’t getting updated properly
 - Data storage has improved reliability
 
+---
 
 ## Feasibility & Deployment
 
