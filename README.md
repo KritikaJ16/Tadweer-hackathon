@@ -1,4 +1,4 @@
-# 🌵 Desert Pulse
+# Desert Pulse
 
 <p align="center">
 
@@ -12,7 +12,7 @@ https://gleaming-sherbet-e7f29e.netlify.app/
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 * [Overview](#-overview)
 * [The Challenge](#-the-challenge)
@@ -31,7 +31,7 @@ https://gleaming-sherbet-e7f29e.netlify.app/
 
 ---
 
-# 🌍 Overview
+# Overview
 
 Entrepreneurs in rural communities often face one major obstacle before launching a business: **a lack of reliable local market data**.
 
@@ -43,7 +43,7 @@ Built specifically with **Al Qua'a** in mind, the solution demonstrates how loca
 
 ---
 
-# 🎯 The Challenge
+# The Challenge
 
 ### Challenge Selected
 
@@ -64,23 +64,23 @@ Desert Pulse addresses this challenge by transforming community feedback into ac
 
 ---
 
-# 👥 Target Users
+# Target Users
 
-### 🏪 Local Entrepreneurs
+### Local Entrepreneurs
 
 Individuals planning to start or expand businesses who need evidence before investing time and money.
 
-### 🏘 Community Residents
+### Community Residents
 
 Residents who anonymously share their opinions about missing services, local needs, and potential business opportunities.
 
-### 🏛 Community Organisations
+### Community Organisations
 
 Local organisations interested in understanding community priorities and supporting sustainable economic development.
 
 ---
 
-# 💡 Our Solution
+# Our Solution
 
 Desert Pulse creates a continuous feedback loop between residents and entrepreneurs.
 
@@ -92,39 +92,39 @@ Rather than replacing entrepreneurs' decision-making, Desert Pulse equips them w
 
 ---
 
-# ✨ Key Features
+# Key Features
 
-### 📝 Anonymous Community Feedback
+### Anonymous Community Feedback
 
 Residents can quickly submit suggestions and identify unmet community needs without creating an account.
 
 ---
 
-### 📊 Interactive Demand Dashboard
+### Interactive Demand Dashboard
 
 Community responses are transformed into clear visualisations that reveal trends, popular requests, and emerging opportunities.
 
 ---
 
-### 🔥 Opportunity Heatmap
+### Opportunity Heatmap
 
 Demand across different business categories is presented visually, making it easier to identify high-interest sectors.
 
 ---
 
-### 📈 Business Opportunity Insights
+### Business Opportunity Insights
 
 Entrepreneurs can explore community-supported opportunities before committing financial resources.
 
 ---
 
-### 🗺 Business Roadmap Generator
+### Business Roadmap Generator
 
 The platform provides a structured roadmap that guides aspiring entrepreneurs through the initial stages of launching a business.
 
 ---
 
-### ♿ Accessibility Features
+### Accessibility Features
 
 Desert Pulse was designed to be inclusive through features including:
 
@@ -135,7 +135,7 @@ Desert Pulse was designed to be inclusive through features including:
 
 ---
 
-# 🌱 Impact
+# Impact
 
 Desert Pulse aims to create value for both entrepreneurs and the wider community.
 
@@ -165,7 +165,7 @@ These indicators allow the project's impact to be objectively assessed rather th
 
 ---
 
-# 🚀 Feasibility & Deployment
+# Feasibility & Deployment
 
 Desert Pulse is implemented as a lightweight React web application that can be deployed using modern static hosting platforms such as Netlify.
 
@@ -181,7 +181,7 @@ The platform can be adopted by:
 
 ---
 
-# 🌍 Scalability
+# Scalability
 
 Although designed around Al Qua'a, the concept can be adapted to other communities with minimal changes.
 
@@ -195,7 +195,7 @@ Because the platform separates user feedback from data visualisation, the same f
 
 ---
 
-# 🛠 Technology Stack
+# Technology Stack
 
 | Category   | Technology       |
 | ---------- | ---------------- |
@@ -209,7 +209,7 @@ Because the platform separates user feedback from data visualisation, the same f
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 src/
@@ -230,7 +230,7 @@ README.md
 
 ---
 
-# ▶ Running the Project
+# Running the Project
 
 ```bash
 git clone <repository-url>
@@ -250,7 +250,7 @@ http://localhost:5173
 
 ---
 
-# ✅ Validation
+# Validation
 
 The project can be evaluated by exploring the complete user workflow:
 
@@ -265,7 +265,7 @@ Repository documentation also includes supporting materials such as user testing
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 Potential future enhancements include:
 
@@ -280,7 +280,7 @@ Potential future enhancements include:
 
 ---
 
-# 👥 Team
+# Team
 
 Developed for **Tatweer Hackathon 2026**
 
@@ -290,7 +290,7 @@ Community Focus: **Al Qua'a, Al Ain, United Arab Emirates**
 
 ---
 
-# 🏁 Conclusion
+# Conclusion
 
 Desert Pulse demonstrates how community-generated insights can empower entrepreneurs to make informed decisions while ensuring residents have a meaningful voice in shaping the future of their local economy.
 
