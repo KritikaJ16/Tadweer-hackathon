@@ -2,7 +2,7 @@
 ### *Empowering rural entrepreneurs through community-driven market insights*
 
 > **Tatweer Hackathon 2026 — Al Qua'a, Al Ain, UAE**
-> Built for **Challenge 3 (Data Gap for Local Entrepreneurs)** + **Challenge 1 (Taking the First Entrepreneurial Step)**
+> Built for **Challenge 1 (Taking the First Entrepreneurial Step)**
 
 **[Live Demo](https://desert-pulse.vercel.app)** &nbsp;|&nbsp; **[📹 Demo Video](https://youtu.be/LINK)** &nbsp;|&nbsp; **[🖼️ Screenshots](#screenshots)**
 
@@ -206,9 +206,6 @@ http://localhost:5173
 ---
 
 ## Challenges Addressed
-
-### Challenge 3 — Data Gap for Local Entrepreneurs
-Real-time community-driven market insights.
 
 ### Challenge 1 — First Entrepreneurial Step
 AI roadmap turns ideas into execution instantly.
