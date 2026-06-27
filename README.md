@@ -1,10 +1,10 @@
-# 🌵 Desert Pulse
+# Desert Pulse
 ### *Empowering rural entrepreneurs through community-driven market insights*
 
 > **Tatweer Hackathon 2026 — Al Qua'a, Al Ain, UAE**
 > Built for **Challenge 3 (Data Gap for Local Entrepreneurs)** + **Challenge 1 (Taking the First Entrepreneurial Step)**
 
-**[🔴 Live Demo](https://desert-pulse.vercel.app)** &nbsp;|&nbsp; **[📹 Demo Video](https://youtu.be/LINK)** &nbsp;|&nbsp; **[🖼️ Screenshots](#screenshots)**
+**[Live Demo](https://desert-pulse.vercel.app)** &nbsp;|&nbsp; **[📹 Demo Video](https://youtu.be/LINK)** &nbsp;|&nbsp; **[🖼️ Screenshots](#screenshots)**
 
 ---
 
@@ -21,13 +21,13 @@ However, the people have their unmet needs, which remain hidden from the entrepr
 
 ## Whom It’s For
 
-### 🏪 Local Entrepreneurs
+### Local Entrepreneurs
 People who wish to develop their business and need the means to do the market analysis.
 
-### 🏘 Community Residents
+### Community Residents
 People who wish to voice their unmet needs (service needs, shop needs, infrastructure needs) anonymously.
 
-### 🏛 Community Organizations
+### Community Organizations
 Organizations that work on local development and need the insight into community needs.
 
 ---
@@ -59,22 +59,22 @@ From **community intelligence to business action**.
 ---
 ## Core Capabilities
 
-### 📝 Anonymous Feedback Tool
+### Anonymous Feedback Tool
 Fast and easy submission of the community’s needs without sign up.
 
-### 📊 Dynamic Demand Dashboard
+### Dynamic Demand Dashboard
 Immediate insight into what the community really wants.
 
-### 🔥 Opportunity Map
+### Opportunity Map
 Identifies sectors with greatest unmet demand.
 
-### 🤖 Artificial Intelligence Business Advisor
+### Artificial Intelligence Business Advisor
 Creates customized business launch plan.
 
-### 🗺 Startup Roadmap Builder
+### Startup Roadmap Builder
 Aids entrepreneurs with moving their ideas forward.
 
-### ♿ Accessibility
+### Accessibility
 - English and Arabic language options
 - High Contrast Mode 
 - Scalable Text 
@@ -97,20 +97,20 @@ Aids entrepreneurs with moving their ideas forward.
 
 ## Latest Changes/Improvements
 
-### 🛠 UI/UX Fixes
+### UI/UX Fixes
 - Resolved problem where plans weren’t getting updated dynamically
 - Resolved scrolling and navigation problems between different sections
 - Resolved pulse/help section navigation problems
 
-### 🤖 Personalization Enhancements
+### Personalization Enhancements
 - Now business roadmap generator will ask **3 adaptive questions**
 - Increased relevance of generated business plans
 
-### 📊 Data Fixes
+### Data Fixes
 - Resolved issue with statistics not being updated properly
 - Dashboard data metrics updated properly
 
-### 💾 Data Handling Enhancements
+### Data Handling Enhancements
 - Resolved problem where stored answers weren’t getting updated properly
 - Data storage has improved reliability
 
